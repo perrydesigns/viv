@@ -1,0 +1,18 @@
+#showcase {
+    min-height: 400px;
+    background: url('../img/cook.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+#branding{
+    color: white;
+}
+#branding .highlight{
+    color: whitesmoke;
+}
+
+
+
